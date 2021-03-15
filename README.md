@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mursalin Haque
-- 👀 I’m interested in developing user friendly interfaces which carries out tasks efficiently
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on open source MERN stack projects
-- 📫 Reach me at mursalinhq1@gmail.com
+ 👋 Hi, I’m Mursalin Haque
+ 👀 I’m interested in developing user friendly interfaces which carries out tasks efficiently
+ 🌱 I’m currently learning MERN stack.
+ 💞️ I’m looking to collaborate on open source MERN stack projects
+ 📫 Reach me at mursalinhq1@gmail.com
 
 Tech Stack
 * ReactJS
