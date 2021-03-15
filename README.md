@@ -11,9 +11,11 @@ Tech Stack
 * MongoDB
 * Java
 * SpringBoot
+* Redux
 * Python
 * HTML
 * CSS
+* Docker
 
 <!---
 Mursalin7/Mursalin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
